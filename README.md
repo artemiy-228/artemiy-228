@@ -1,16 +1,45 @@
-### Hi there 👋
+# Hello, GitHub!
 
-<!--
-**artemiy-228/artemiy-228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my awesome repository. This is a place where I share my cool projects and ideas.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an aspiring developer who every day paves his way to a dream:
+I definitely like these directions in IT
+
+- Web Development
+- Data Science
+- Working with servers
+- Some kind of math
+
+### Languages, OS and Tools:
+
+- C/C++/C#
+- Python
+- JavaScript
+- Linux
+- Windows
+- Unreal Engine
+- Unity
+- Blender
+
+## Favourity Quote
+
+> "Go ahead and live with your head held high! No matter how devastated you may be by your own weakness or uselessness…set your heart ablaze. Grit your teeth and look straight ahead"
+
+
+![Rengoku Kyujuro](https://media.tenor.com/ButPqvDjPgAAAAAd/rengoku-9th-form.gif)
+
+## Contact Me
+
+If you have any questions or collaboration opportunities, feel free to reach out to me:
+
+- Email: artemiy.sychev21@gmail.com
+- LinkedIn: [@Artemy Sychev](https://www.linkedin.com/in/artemy-sychev-803465207/)
+- CodeWars: [@Artemy Sychev](https://www.codewars.com/users/Artemy%20Sychev)
+
+![CodeWars](https://www.codewars.com/users/Artemy%20Sychev/badges/large)
+
+Thanks for visiting! Don't forget to star ⭐ this repository if you find it helpful.
+
+![Rengoku Kyujuro](https://media.tenor.com/LLEDRF5f4TMAAAAC/rengoku-vs-akaza.gif)
