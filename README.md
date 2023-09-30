@@ -16,27 +16,18 @@ I definitely like these directions in IT
 
 ## Skills
 
+### Ряд 1
 
 | Skill                                          | Description                              |
 |-----------------------------------------------|------------------------------------------|
-| <img src="web_developing.png" width="50">     | Web Development                          |
-| <img src="data_science.png" width="50">       | Data Science                            |
-| <img src="servers.png" width="50">            | Working with servers                    |
-| <img src="math.png" width="50">               | Some kind of math                        |
-| <img src="c#.png" width="50">                 | C/C++/C#                                 |
-| <img src="python.png" width="50">             | Python                                   |
-| <img src="js.png" width="50">                 | JavaScript                               |
+| <img src="web_developing.png" width="50">     | Web Development                          | <img src="data_science.png" width="50">       | Data Science                            | <img src="servers.png" width="50">            | Working with servers                    | <img src="math.png" width="50">               | Some kind of math                        | <img src="c#.png" width="50">                 | C/C++/C#                                 | <img src="python.png" width="50">             | Python                                   | <img src="js.png" width="50">                 | JavaScript                               |
 
+### Ряд 2
 
 | Skill                                          | Description                              |
 |-----------------------------------------------|------------------------------------------|
-| <img src="linux.png" width="50">              | Linux                                    |
-| <img src="windows.png" width="50">            | Windows                                  |
-| <img src="ue.png" width="50">                 | Unreal Engine                            |
-| <img src="unity.png" width="50">              | Unity                                    |
-| <img src="blender.png" width="50">            | Blender                                  |
-| <img src="docker.png" width="50">             | Docker                                   |
-| <img src="sql.png" width="50">                | SQL                                      |
+| <img src="linux.png" width="50">              | Linux                                    | <img src="windows.png" width="50">            | Windows                                  | <img src="ue.png" width="50">                 | Unreal Engine                            | <img src="unity.png" width="50">              | Unity                                    | <img src="blender.png" width="50">            | Blender                                  | <img src="docker.png" width="50">             | Docker                                   | <img src="sql.png" width="50">                | SQL                                      |
+
 
 
 
