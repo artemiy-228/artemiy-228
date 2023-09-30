@@ -16,20 +16,23 @@ I definitely like these directions in IT
 
 ## Skills
 
-| Skill               |
-|---------------------|
-| ![Web Development](web_dev_icon.png)   | 
-| ![Data Science](data_science.png) |
-| ![Server Administration](servers.png) |
-| ![Math](math.png)               |
-| ![C/C++/C#](ccppcsharp_icon.png)     |
-| ![Python](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png)
-| ![JavaScript](javascript_icon.png)   |
-| ![Linux](linux_icon.png)             |
-| ![Windows](windows_icon.png)         |
-| ![Unreal Engine](unreal_icon.png)   |
-| ![Unity](unity_icon.png)             |
-| ![Blender](blender_icon.png)         |
+| Skill                                          | Description                              |
+|-----------------------------------------------|------------------------------------------|
+| <img src="web_developing.png" width="50">     | Web Development                          |
+| <img src="data_science.png" width="50">       | Data Science                            |
+| <img src="servers.png" width="50">            | Working with servers                    |
+| <img src="math.png" width="50">               | Some kind of math                        |
+| <img src="c#.png" width="50">                 | C/C++/C#                                 |
+| <img src="python.png" width="50">             | Python                                   |
+| <img src="js.png" width="50">                 | JavaScript                               |
+| <img src="linux.png" width="50">              | Linux                                    |
+| <img src="windows.png" width="50">            | Windows                                  |
+| <img src="ue.png" width="50">                 | Unreal Engine                            |
+| <img src="unity.png" width="50">              | Unity                                    |
+| <img src="blender.png" width="50">            | Blender                                  |
+| <img src="docker.png" width="50">             | Docker                                   |
+| <img src="sql.png" width="50">                | SQL                                      |
+
 
 
 ## Favourity Quote
