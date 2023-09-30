@@ -19,7 +19,7 @@ I definitely like these directions in IT
 
 | Skill                                          | Description                              | Skill                                          | Description                              |
 |-----------------------------------------------|------------------------------------------|-----------------------------------------------|------------------------------------------|
-| <img src="c#.png" width="50">                 | C/C++/C#                                 | <img src="web_developing.png" width="50">     | Web Development                          |
+| <img src="c.png" width="50">                 | C/C++/C#                                 | <img src="web_developing.png" width="50">     | Web Development                          |
 | <img src="python.png" width="50">             | Python                                   | <img src="data_science.png" width="50">       | Data Science                            |
 | <img src="js.png" width="50">                 | JavaScript                               | <img src="servers.png" width="50">            | Working with servers                    |
 | <img src="ue.png" width="50">                 | Unreal Engine                            | <img src="math.png" width="50">               | Some kind of math                        |
