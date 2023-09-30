@@ -15,15 +15,18 @@ I definitely like these directions in IT
 ### Languages, OS and Tools:
 
 
+## Skills
+
 | Skill                                          | Description                              | Skill                                          | Description                              |
 |-----------------------------------------------|------------------------------------------|-----------------------------------------------|------------------------------------------|
-| <img src="linux.png" width="50">              | Linux                                    | <img src="web_developing.png" width="50">     | Web Development                          |
-| <img src="windows.png" width="50">            | Windows                                  | <img src="data_science.png" width="50">       | Data Science                            |
-| <img src="ue.png" width="50">                 | Unreal Engine                            | <img src="servers.png" width="50">            | Working with servers                    |
-| <img src="unity.png" width="50">              | Unity                                    | <img src="math.png" width="50">               | Some kind of math                        |
-| <img src="blender.png" width="50">            | Blender                                  | <img src="c#.png" width="50">                 | C/C++/C#                                 |
-| <img src="docker.png" width="50">             | Docker                                   |<img src="python.png" width="50">             | Python                                   |
-| <img src="sql.png" width="50">                | SQL                                      | <img src="js.png" width="50">                 | JavaScript                               |
+| <img src="c#.png" width="50">                 | C/C++/C#                                 | <img src="web_developing.png" width="50">     | Web Development                          |
+| <img src="python.png" width="50">             | Python                                   | <img src="data_science.png" width="50">       | Data Science                            |
+| <img src="js.png" width="50">                 | JavaScript                               | <img src="servers.png" width="50">            | Working with servers                    |
+| <img src="ue.png" width="50">                 | Unreal Engine                            | <img src="math.png" width="50">               | Some kind of math                        |
+| <img src="unity.png" width="50">              | Unity                                    | <img src="linux.png" width="50">              | Linux                                    |
+| <img src="blender.png" width="50">            | Blender                                  | <img src="windows.png" width="50">            | Windows                                  |
+| <img src="docker.png" width="50">             | Docker                                   | <img src="sql.png" width="50">                | SQL                                      |
+
 
 
 
