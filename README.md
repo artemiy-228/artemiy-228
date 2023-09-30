@@ -16,23 +16,72 @@ I definitely like these directions in IT
 
 ## Skills
 
-| Skill                                          | Description                              |
-|-----------------------------------------------|------------------------------------------|
-| <img src="web_developing.png" width="50">     | Web Development                          |
-| <img src="data_science.png" width="50">       | Data Science                            |
-| <img src="servers.png" width="50">            | Working with servers                    |
-| <img src="math.png" width="50">               | Some kind of math                        |
-| <img src="c#.png" width="50">                 | C/C++/C#                                 |
-| <img src="python.png" width="50">             | Python                                   |
-| <img src="js.png" width="50">                 | JavaScript                               |
-| <img src="linux.png" width="50">              | Linux                                    |
-| <img src="windows.png" width="50">            | Windows                                  |
-| <img src="ue.png" width="50">                 | Unreal Engine                            |
-| <img src="unity.png" width="50">              | Unity                                    |
-| <img src="blender.png" width="50">            | Blender                                  |
-| <img src="docker.png" width="50">             | Docker                                   |
-| <img src="sql.png" width="50">                | SQL                                      |
-
+<table>
+  <tr>
+    <td>
+      <img src="web_developing.png" width="50"><br>
+      Web Development
+    </td>
+    <td>
+      <img src="data_science.png" width="50"><br>
+      Data Science
+    </td>
+    <td>
+      <img src="servers.png" width="50"><br>
+      Working with servers
+    </td>
+    <td>
+      <img src="math.png" width="50"><br>
+      Some kind of math
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="c#.png" width="50"><br>
+      C/C++/C#
+    </td>
+    <td>
+      <img src="python.png" width="50"><br>
+      Python
+    </td>
+    <td>
+      <img src="js.png" width="50"><br>
+      JavaScript
+    </td>
+    <td>
+      <img src="linux.png" width="50"><br>
+      Linux
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="windows.png" width="50"><br>
+      Windows
+    </td>
+    <td>
+      <img src="ue.png" width="50"><br>
+      Unreal Engine
+    </td>
+    <td>
+      <img src="unity.png" width="50"><br>
+      Unity
+    </td>
+    <td>
+      <img src="blender.png" width="50"><br>
+      Blender
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="docker.png" width="50"><br>
+      Docker
+    </td>
+    <td>
+      <img src="sql.png" width="50"><br>
+      SQL
+    </td>
+  </tr>
+</table>
 
 
 ## Favourity Quote
