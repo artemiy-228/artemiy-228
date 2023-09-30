@@ -19,9 +19,9 @@ I definitely like these directions in IT
 | Skill               |
 |---------------------|
 | ![Web Development](web_dev_icon.png)   | 
-| ![Data Science](data_science_icon.png) |
-| ![Server Administration](server_icon.png) |
-| ![Math](math_icon.png)               |
+| ![Data Science](data_science.png) |
+| ![Server Administration](servers.png) |
+| ![Math](math.png)               |
 | ![C/C++/C#](ccppcsharp_icon.png)     |
 | ![Python](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png)
 | ![JavaScript](javascript_icon.png)   |
