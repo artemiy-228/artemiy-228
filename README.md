@@ -16,20 +16,20 @@ I definitely like these directions in IT
 
 ## Skills
 
-| Skill               | Description                              |
-|---------------------|------------------------------------------|
-| ![Web Development](web_dev_icon.png)   | Web Development                         |
-| ![Data Science](data_science_icon.png) | Data Science                            |
-| ![Server Administration](server_icon.png) | Working with servers                  |
-| ![Math](math_icon.png)               | Some kind of math                        |
-| ![C/C++/C#](ccppcsharp_icon.png)     | C/C++/C#                                 |
-| ![Python](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png)          | Python                                   |
-| ![JavaScript](javascript_icon.png)   | JavaScript                               |
-| ![Linux](linux_icon.png)             | Linux                                    |
-| ![Windows](windows_icon.png)         | Windows                                  |
-| ![Unreal Engine](unreal_icon.png)   | Unreal Engine                            |
-| ![Unity](unity_icon.png)             | Unity                                    |
-| ![Blender](blender_icon.png)         | Blender                                  |
+| Skill               |
+|---------------------|
+| ![Web Development](web_dev_icon.png)   | 
+| ![Data Science](data_science_icon.png) |
+| ![Server Administration](server_icon.png) |
+| ![Math](math_icon.png)               |
+| ![C/C++/C#](ccppcsharp_icon.png)     |
+| ![Python](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png)
+| ![JavaScript](javascript_icon.png)   |
+| ![Linux](linux_icon.png)             |
+| ![Windows](windows_icon.png)         |
+| ![Unreal Engine](unreal_icon.png)   |
+| ![Unity](unity_icon.png)             |
+| ![Blender](blender_icon.png)         |
 
 
 ## Favourity Quote
