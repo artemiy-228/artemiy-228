@@ -22,8 +22,7 @@ I definitely like these directions in IT
 | <img src="c.png" width="50">                 | C/C++/C#                                 | <img src="web_developing.png" width="50">     | Web Development                          |
 | <img src="python.png" width="50">             | Python                                   | <img src="data_science.png" width="50">       | Data Science                            |
 | <img src="js.png" width="50">                 | JavaScript                               | <img src="servers.png" width="50">            | Working with servers                    |
-| <img src="ue.png" width="50">                 | Unreal Engine                            | <img src="math.png" width="50">               | Theory of Possibility                       |
-| <img src="unity.png" width="50">              | Unity                                    | <img src="linux.png" width="50">              | Linux                                    |
+| <img src="math.png" width="50">               | Theory of Possibility                    | <img src="linux.png" width="50">              | Linux                                    |
 | <img src="blender.png" width="50">            | Blender                                  | <img src="windows.png" width="50">            | Windows                                  |
 | <img src="docker.png" width="50">             | Docker                                   | <img src="sql.png" width="50">                | SQL                                      |
 
