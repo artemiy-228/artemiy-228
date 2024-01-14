@@ -29,13 +29,6 @@ I definitely like these directions in IT
 
 
 
-## Favourity Quote
-
-> "Go ahead and live with your head held high! No matter how devastated you may be by your own weakness or uselessness…set your heart ablaze. Grit your teeth and look straight ahead"
-
-
-![Rengoku Kyujuro](https://media.tenor.com/ButPqvDjPgAAAAAd/rengoku-9th-form.gif)
-
 ## Contact Me
 
 If you have any questions or collaboration opportunities, feel free to reach out to me:
@@ -48,4 +41,3 @@ If you have any questions or collaboration opportunities, feel free to reach out
 
 Thanks for visiting! Don't forget to star ⭐ this repository if you find it helpful.
 
-![Rengoku Kyujuro](https://media.tenor.com/LLEDRF5f4TMAAAAC/rengoku-vs-akaza.gif)
