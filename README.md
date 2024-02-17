@@ -35,7 +35,7 @@ If you have any questions or collaboration opportunities, feel free to reach out
 - Email: artemiy.sychev21@gmail.com
 - LinkedIn: [@Artemy Sychev](https://www.linkedin.com/in/artemy-sychev-803465207/)
 - CodeWars: [@Artemy Sychev](https://www.codewars.com/users/Artemy%20Sychev)
-- LeetCode: [@Artemy Sychev](https://leetcode.com/ArtemySychev/)
+- LeetCode: [@Artemy Sychev](https://leetcode.com/artemiy-228/)
 
 ![CodeWars](https://www.codewars.com/users/Artemy%20Sychev/badges/large)
 
