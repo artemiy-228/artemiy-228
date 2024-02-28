@@ -19,7 +19,7 @@ I definitely like these directions in IT
 
 | Skill                                          | Description                              | Skill                                          | Description                              |
 |-----------------------------------------------|------------------------------------------|-----------------------------------------------|------------------------------------------|
-| <img src="c.png" width="50">                 | C/C++/C#                                 | <img src="web_developing.png" width="50">     | Web Development                          |
+| <img src="c.png" width="50">                 | C/C++/C#                                 | <img src="kotlin.png" width="50">     | Kotlin                          |
 | <img src="python.png" width="50">             | Python                                   | <img src="data_science.png" width="50">       | Data Science                            |
 |  <img src="windows.png" width="50">            | Windows                                 | <img src="servers.png" width="50">            | Working with servers                    |
 | <img src="math.png" width="50">               | Theory of Possibility                    | <img src="linux.png" width="50">              | Linux                                    |
