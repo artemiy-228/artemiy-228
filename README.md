@@ -20,7 +20,7 @@ I definitely like these directions in IT
 | Skill                                          | Description                              | Skill                                          | Description                              |
 |-----------------------------------------------|------------------------------------------|-----------------------------------------------|------------------------------------------|
 | <img src="c.png" width="50">                 | C/C++/C#                                 | <img src="kotlin.png" width="50">     | Kotlin                          |
-| <img src="python.png" width="50">             | Python                                   | <img src="data_science.png" width="50">       | Data Science                            |
+| <img src="python.png" width="50">             | Python                                   | <img src="java.png" width="50">       | Java                           |
 |  <img src="windows.png" width="50">            | Windows                                 | <img src="servers.png" width="50">            | Working with servers                    |
 | <img src="math.png" width="50">               | Mathematics             | <img src="linux.png" width="50">              | Linux                                    |
 | <img src="docker.png" width="50">             | Docker                                   | <img src="sql.png" width="50">                | SQL                                      |
