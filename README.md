@@ -7,7 +7,7 @@ Welcome to my awesome repository. This is a place where I share my cool projects
 I am an aspiring developer who every day paves his way to a dream:
 I definitely like these directions in IT
 
-- Web Development
+- Java
 - Data Science
 - Working with servers
 - Some kind of math
