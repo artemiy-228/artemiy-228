@@ -39,5 +39,7 @@ If you have any questions or collaboration opportunities, feel free to reach out
 
 ![CodeWars](https://www.codewars.com/users/Artemy%20Sychev/badges/large)
 
+[![LeetCode](https://leetcode-stats-six.vercel.app/?username=artemiy-228&theme=dark)](https://leetcode.com/artemiy-228/)
+
 Thanks for visiting! Don't forget to star ⭐ this repository if you find it helpful.
 
