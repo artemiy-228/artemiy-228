@@ -10,7 +10,9 @@ Here I share my projects, ideas, and experiments in programming, data science, a
 I am an aspiring developer paving my way toward a dream.  
 Areas I’m passionate about in IT:
 
+- Rust
 - Java
+- Python
 - Data Science
 - Server-side development
 - Mathematics & Algorithms
@@ -22,12 +24,12 @@ Areas I’m passionate about in IT:
 | Skill                                                | Description                   | Skill                                                | Description                   |
 |------------------------------------------------------|--------------------------------|------------------------------------------------------|--------------------------------|
 | <img src="c.png" width="50">                         | C / C++ / C#                   | <img src="java.png" width="50">                      | Java                          |
-| <img src="python.png" width="50">                    | Python                         | <img src="rust.png" width="50">                      | Rust                          |
+| <img src="python.png" width="50">                    | Python                         | <img src="Rust.png" width="50">                      | Rust                          |
 | <img src="windows.png" width="50">                   | Windows                        | <img src="linux.png" width="50">                     | Linux                         |
 | <img src="math.png" width="50">                      | Mathematics                    | <img src="sql.png" width="50">                       | SQL                           |
 | <img src="docker.png" width="50">                    | Docker                         | <img src="servers.png" width="50">                   | Backend & Infrastructure      |
-| <img src="django.png" width="50">                    | Django (Python framework)      | <img src="fastapi.png" width="50">                   | FastAPI (Python framework)    |
-| <img src="rocket.png" width="50">                    | Rocket (Rust framework)        |                                                      |                                |
+| <img src="Django.png" width="50">                    | Django                         | <img src="FastAPI.png" width="50">                   | FastAPI                       |
+| <img src="rocket.png" width="50">                    | Rocket                         |                                                      |                                |
 
 ---
 
