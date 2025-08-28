@@ -24,7 +24,6 @@ Areas I’m passionate about in IT:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=⚡%20My%20Tech%20Stack%20⚡&fontSize=32&fontAlignY=35&animation=twinkling"/>
 </p>
 
-
 ### 🧑‍💻 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,python,java,c,cpp,cs&perline=6" />
@@ -40,13 +39,14 @@ Areas I’m passionate about in IT:
   <img src="https://skillicons.dev/icons?i=docker,linux,windows,git,github&perline=6" />
 </p>
 
----
 
 <p align="center">
+  <!-- Дополнительная динамическая карточка -->
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Extra%20Skills&align=center&bg=%23212121&fontSize=15&lineHeight=25&width=800&borderRadius=15&theme=dark&line1=sql,math,algorithms" />
 </p>
 
 <p align="center">
+  <!-- Нижний анимированный "волновой" разделитель -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
