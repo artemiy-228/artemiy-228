@@ -21,6 +21,7 @@ Areas I’m passionate about in IT:
 
 ## 🛠 Tech Stack  
 
+### 🔹 Languages
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
@@ -30,13 +31,21 @@ Areas I’m passionate about in IT:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" />
 </p>  
 
+### 🔹 Frameworks & Libraries
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" />
+  <img src="https://www.vectorlogo.zone/logos/diesel-rs/diesel-rs-icon.svg" width="60" /> <!-- Diesel -->
+  <img src="https://rocket.rs/images/logo-box.svg" width="60" /> <!-- Rocket -->
+</p>  
+
+### 🔹 Tools & Infrastructure
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" />
 </p>
+
 
 ## 📬 Contact Me
 
