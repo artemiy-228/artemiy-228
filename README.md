@@ -41,7 +41,7 @@ Areas I’m passionate about in IT:
 ### 📚 Extra Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=sql,kubernetes" />
   <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-math-mathematics-flat-flat-juicy-fish.png" width="50" title="Mathematics" />
   <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-graph-algorithms-and-data-structures-flat-flat-juicy-fish.png" width="50" title="Algorithms" />
 </p>
