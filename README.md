@@ -19,10 +19,8 @@ Areas I’m passionate about in IT:
 
 ---
 
-## 🛠 Tech Stack  
 
 <p align="center">
-  <!-- Красивый анимированный заголовок -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=⚡%20My%20Tech%20Stack%20⚡&fontSize=32&fontAlignY=35&animation=twinkling"/>
 </p>
 
