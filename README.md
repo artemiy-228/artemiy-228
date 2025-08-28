@@ -19,19 +19,30 @@ Areas I’m passionate about in IT:
 
 ---
 
-## 🛠 Languages, OS, Tools & Frameworks
+## 🛠 Languages, OS, Tools & Frameworks  
 
-| Skill                                                | Description                   | Skill                                                | Description                   |
-|------------------------------------------------------|--------------------------------|------------------------------------------------------|--------------------------------|
-| <img src="c.png" width="50">                         | C / C++ / C#                   | <img src="java.png" width="50">                      | Java                          |
-| <img src="python.png" width="50">                    | Python                         | <img src="Rust.png" width="50">                      | Rust                          |
-| <img src="windows.png" width="50">                   | Windows                        | <img src="linux.png" width="50">                     | Linux                         |
-| <img src="math.png" width="50">                      | Mathematics                    | <img src="sql.png" width="50">                       | SQL                           |
-| <img src="docker.png" width="50">                    | Docker                         | <img src="servers.png" width="50">                   | Backend & Infrastructure      |
-| <img src="Django.png" width="50">                    | Django                         | <img src="FastAPI.png" width="50">                   | FastAPI                       |
-| <img src="rocket.png" width="50">                    | Rocket                         |                                                      |                                |
+### Languages  
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
----
+### Frameworks & Tools  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Rocket](https://img.shields.io/badge/Rocket-rust?style=for-the-badge&logo=rust&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### OS & Infrastructure  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Servers](https://img.shields.io/badge/Backend-4EAA25?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Other  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Math](https://img.shields.io/badge/Math-007ACC?style=for-the-badge&logo=matrix&logoColor=white)
 
 ## 📬 Contact Me
 
