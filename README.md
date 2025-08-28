@@ -21,30 +21,40 @@ Areas I’m passionate about in IT:
 
 ## 🛠 Tech Stack  
 
-### 🔹 Languages
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" />
-</p>  
-
-### 🔹 Frameworks & Libraries
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" />
-  <img src="https://www.vectorlogo.zone/logos/diesel-rs/diesel-rs-icon.svg" width="60" /> <!-- Diesel -->
-  <img src="https://rocket.rs/images/logo-box.svg" width="60" /> <!-- Rocket -->
-</p>  
-
-### 🔹 Tools & Infrastructure
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" />
+  <!-- Красивый анимированный заголовок -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=⚡%20My%20Tech%20Stack%20⚡&fontSize=32&fontAlignY=35&animation=twinkling"/>
 </p>
+
+---
+
+### 🧑‍💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,python,java,c,cpp,cs&perline=6" />
+</p>
+
+### 🏗 Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,diesel,rocket&perline=6" />
+</p>
+
+### ⚙️ Tools & Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,windows,git,github&perline=6" />
+</p>
+
+---
+
+<p align="center">
+  <!-- Дополнительная динамическая карточка -->
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Extra%20Skills&align=center&bg=%23212121&fontSize=15&lineHeight=25&width=800&borderRadius=15&theme=dark&line1=sql,math,algorithms" />
+</p>
+
+<p align="center">
+  <!-- Нижний анимированный "волновой" разделитель -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
 
 
 ## 📬 Contact Me
