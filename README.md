@@ -42,8 +42,8 @@ Areas I’m passionate about in IT:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sql,kubernetes" />
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-math-mathematics-flat-flat-juicy-fish.png" width="50" title="Mathematics" />
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-graph-algorithms-and-data-structures-flat-flat-juicy-fish.png" width="50" title="Algorithms" />
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/025/361/684/small/i-love-mathematics-concept-thin-line-round-colored-banner-school-math-illustration-vector.jpg" width="50" title="Mathematics" />
+  <img src="https://cdn-icons-png.flaticon.com/512/3195/3195640.png" width="50" title="Algorithms" />
 </p>
 
 
