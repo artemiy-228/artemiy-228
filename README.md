@@ -30,7 +30,7 @@ Areas I’m passionate about in IT:
 
 ### 🏗 Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,diesel,rocket&perline=6" />
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,django,rocket,postgres,docker,java&perline=7" />
 </p>
 
 ### ⚙️ Tools & Infrastructure
