@@ -46,8 +46,6 @@ Areas I’m passionate about in IT:
   <img src="https://static.vecteezy.com/system/resources/thumbnails/025/361/684/small/i-love-mathematics-concept-thin-line-round-colored-banner-school-math-illustration-vector.jpg" width="50" title="Mathematics" />
   
   <img src="https://cdn-icons-png.flaticon.com/512/3195/3195640.png" width="50" title="Algorithms" />
-  
-  <img src="https://ultralytics.com/images/logo-dark.svg" width="50" title="YOLO / Ultralytics" />
 </p>
 
 
